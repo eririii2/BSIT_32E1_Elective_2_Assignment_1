@@ -1,0 +1,128 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ramones Family\\OneDrive\\Documents\\IT3-SEM2-Prelim\\BSIT_32E1_Elective_2_Assignment_1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EFFBA4A8-FDF0-49EB-B55C-58160E790E5F}|BSIT_32E1_Elective_2_Assignment_1\\BSIT_32E1_Elective_2_Assignment_1.csproj|c:\\users\\ramones family\\onedrive\\documents\\it3-sem2-prelim\\bsit_32e1_elective_2_assignment_1\\bsit_32e1_elective_2_assignment_1\\views\\quiz\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EFFBA4A8-FDF0-49EB-B55C-58160E790E5F}|BSIT_32E1_Elective_2_Assignment_1\\BSIT_32E1_Elective_2_Assignment_1.csproj|solutionrelative:bsit_32e1_elective_2_assignment_1\\views\\quiz\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFFBA4A8-FDF0-49EB-B55C-58160E790E5F}|BSIT_32E1_Elective_2_Assignment_1\\BSIT_32E1_Elective_2_Assignment_1.csproj|c:\\users\\ramones family\\onedrive\\documents\\it3-sem2-prelim\\bsit_32e1_elective_2_assignment_1\\bsit_32e1_elective_2_assignment_1\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{EFFBA4A8-FDF0-49EB-B55C-58160E790E5F}|BSIT_32E1_Elective_2_Assignment_1\\BSIT_32E1_Elective_2_Assignment_1.csproj|solutionrelative:bsit_32e1_elective_2_assignment_1\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFFBA4A8-FDF0-49EB-B55C-58160E790E5F}|BSIT_32E1_Elective_2_Assignment_1\\BSIT_32E1_Elective_2_Assignment_1.csproj|c:\\users\\ramones family\\onedrive\\documents\\it3-sem2-prelim\\bsit_32e1_elective_2_assignment_1\\bsit_32e1_elective_2_assignment_1\\controllers\\quizcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFFBA4A8-FDF0-49EB-B55C-58160E790E5F}|BSIT_32E1_Elective_2_Assignment_1\\BSIT_32E1_Elective_2_Assignment_1.csproj|solutionrelative:bsit_32e1_elective_2_assignment_1\\controllers\\quizcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFFBA4A8-FDF0-49EB-B55C-58160E790E5F}|BSIT_32E1_Elective_2_Assignment_1\\BSIT_32E1_Elective_2_Assignment_1.csproj|c:\\users\\ramones family\\onedrive\\documents\\it3-sem2-prelim\\bsit_32e1_elective_2_assignment_1\\bsit_32e1_elective_2_assignment_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFFBA4A8-FDF0-49EB-B55C-58160E790E5F}|BSIT_32E1_Elective_2_Assignment_1\\BSIT_32E1_Elective_2_Assignment_1.csproj|solutionrelative:bsit_32e1_elective_2_assignment_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFFBA4A8-FDF0-49EB-B55C-58160E790E5F}|BSIT_32E1_Elective_2_Assignment_1\\BSIT_32E1_Elective_2_Assignment_1.csproj|c:\\users\\ramones family\\onedrive\\documents\\it3-sem2-prelim\\bsit_32e1_elective_2_assignment_1\\bsit_32e1_elective_2_assignment_1\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EFFBA4A8-FDF0-49EB-B55C-58160E790E5F}|BSIT_32E1_Elective_2_Assignment_1\\BSIT_32E1_Elective_2_Assignment_1.csproj|solutionrelative:bsit_32e1_elective_2_assignment_1\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFFBA4A8-FDF0-49EB-B55C-58160E790E5F}|BSIT_32E1_Elective_2_Assignment_1\\BSIT_32E1_Elective_2_Assignment_1.csproj|c:\\users\\ramones family\\onedrive\\documents\\it3-sem2-prelim\\bsit_32e1_elective_2_assignment_1\\bsit_32e1_elective_2_assignment_1\\models\\quizviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFFBA4A8-FDF0-49EB-B55C-58160E790E5F}|BSIT_32E1_Elective_2_Assignment_1\\BSIT_32E1_Elective_2_Assignment_1.csproj|solutionrelative:bsit_32e1_elective_2_assignment_1\\models\\quizviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "QuizViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Ramones Family\\OneDrive\\Documents\\IT3-SEM2-Prelim\\BSIT_32E1_Elective_2_Assignment_1\\BSIT_32E1_Elective_2_Assignment_1\\Models\\QuizViewModel.cs",
+              "RelativeDocumentMoniker": "BSIT_32E1_Elective_2_Assignment_1\\Models\\QuizViewModel.cs",
+              "ToolTip": "C:\\Users\\Ramones Family\\OneDrive\\Documents\\IT3-SEM2-Prelim\\BSIT_32E1_Elective_2_Assignment_1\\BSIT_32E1_Elective_2_Assignment_1\\Models\\QuizViewModel.cs",
+              "RelativeToolTip": "BSIT_32E1_Elective_2_Assignment_1\\Models\\QuizViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-15T14:07:09.635Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "QuizController.cs",
+              "DocumentMoniker": "C:\\Users\\Ramones Family\\OneDrive\\Documents\\IT3-SEM2-Prelim\\BSIT_32E1_Elective_2_Assignment_1\\BSIT_32E1_Elective_2_Assignment_1\\Controllers\\QuizController.cs",
+              "RelativeDocumentMoniker": "BSIT_32E1_Elective_2_Assignment_1\\Controllers\\QuizController.cs",
+              "ToolTip": "C:\\Users\\Ramones Family\\OneDrive\\Documents\\IT3-SEM2-Prelim\\BSIT_32E1_Elective_2_Assignment_1\\BSIT_32E1_Elective_2_Assignment_1\\Controllers\\QuizController.cs",
+              "RelativeToolTip": "BSIT_32E1_Elective_2_Assignment_1\\Controllers\\QuizController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-15T14:12:45.48Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ramones Family\\OneDrive\\Documents\\IT3-SEM2-Prelim\\BSIT_32E1_Elective_2_Assignment_1\\BSIT_32E1_Elective_2_Assignment_1\\Views\\Quiz\\Index.cshtml",
+              "RelativeDocumentMoniker": "BSIT_32E1_Elective_2_Assignment_1\\Views\\Quiz\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Ramones Family\\OneDrive\\Documents\\IT3-SEM2-Prelim\\BSIT_32E1_Elective_2_Assignment_1\\BSIT_32E1_Elective_2_Assignment_1\\Views\\Quiz\\Index.cshtml",
+              "RelativeToolTip": "BSIT_32E1_Elective_2_Assignment_1\\Views\\Quiz\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-15T14:20:10.94Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ramones Family\\OneDrive\\Documents\\IT3-SEM2-Prelim\\BSIT_32E1_Elective_2_Assignment_1\\BSIT_32E1_Elective_2_Assignment_1\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "BSIT_32E1_Elective_2_Assignment_1\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Ramones Family\\OneDrive\\Documents\\IT3-SEM2-Prelim\\BSIT_32E1_Elective_2_Assignment_1\\BSIT_32E1_Elective_2_Assignment_1\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "BSIT_32E1_Elective_2_Assignment_1\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-15T14:23:13.217Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\Ramones Family\\OneDrive\\Documents\\IT3-SEM2-Prelim\\BSIT_32E1_Elective_2_Assignment_1\\BSIT_32E1_Elective_2_Assignment_1\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "BSIT_32E1_Elective_2_Assignment_1\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\Ramones Family\\OneDrive\\Documents\\IT3-SEM2-Prelim\\BSIT_32E1_Elective_2_Assignment_1\\BSIT_32E1_Elective_2_Assignment_1\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "BSIT_32E1_Elective_2_Assignment_1\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAALUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-11-15T14:23:40.647Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ramones Family\\OneDrive\\Documents\\IT3-SEM2-Prelim\\BSIT_32E1_Elective_2_Assignment_1\\BSIT_32E1_Elective_2_Assignment_1\\Program.cs",
+              "RelativeDocumentMoniker": "BSIT_32E1_Elective_2_Assignment_1\\Program.cs",
+              "ToolTip": "C:\\Users\\Ramones Family\\OneDrive\\Documents\\IT3-SEM2-Prelim\\BSIT_32E1_Elective_2_Assignment_1\\BSIT_32E1_Elective_2_Assignment_1\\Program.cs",
+              "RelativeToolTip": "BSIT_32E1_Elective_2_Assignment_1\\Program.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAkwBgAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-15T14:26:44.106Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

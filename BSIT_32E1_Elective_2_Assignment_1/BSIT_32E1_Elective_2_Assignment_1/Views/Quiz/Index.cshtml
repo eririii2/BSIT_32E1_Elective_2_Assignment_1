@@ -1,0 +1,101 @@
+﻿@model BSIT_32E1_Elective_2_Assignment_1.Models.QuizViewModel
+
+@{
+    ViewData["Title"] = "IT Elective 3 (Fullstack Devt)";
+}
+
+<div class="quiz-page">
+
+    <div class="quiz-header">
+
+        <div class="yellow-bar"></div>
+
+        <div class="header-content">
+
+            <h1>
+                IT Elective 2 – Web System and Technologies
+            </h1>
+
+            <p class="assign-subtitle">
+                Prelim A1
+            </p>
+
+            <div class="student-information">
+
+                <div class="student-detail">
+                    <span class="detail-label">Name</span>
+                    <span class="detail-value">
+                        @Model.StudentName
+                    </span>
+                </div>
+
+                <div class="student-detail">
+                    <span class="detail-label">Class</span>
+                    <span class="detail-value">
+                        @Model.ClassName
+                    </span>
+                </div>
+
+                <div class="student-detail">
+                    <span class="detail-label">Section</span>
+                    <span class="detail-value">
+                        @Model.Section
+                    </span>
+                </div>
+
+            </div>
+
+        </div>
+
+    </div>
+
+    @foreach (var question in Model.Questions)
+    {
+        <div class="question-card">
+
+            <h2>
+                @question.Id. @question.Text
+            </h2>
+
+            <div class="choices">
+
+                @foreach (var choice in question.Choices)
+                {
+                    string letter = choice.Substring(0, 1);
+
+                    bool selected =
+                    letter == question.SelectedAnswer;
+
+                    if (selected)
+                    {
+                        <div class="choice selected-choice">
+
+                            <div class="radio selected-radio">
+                                ●
+                            </div>
+
+                            <span>
+                                @choice
+                            </span>
+
+                        </div>
+                    }
+                    else
+                    {
+                        <div class="choice">
+
+                            <div class="radio">
+                                ○
+                            </div>
+
+                            <span>
+                                @choice
+                            </span>
+
+                        </div>
+                    }
+                }
+            </div>
+        </div>
+    }
+</div>
